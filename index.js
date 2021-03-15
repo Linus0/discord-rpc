@@ -7,7 +7,7 @@ activity : {
 details : "Coding some shit...",
 assets : {
 large_image : "large2",
-large_text : "Coding some bots..." // THIS WILL SHOW AS "Playing <Status>" from the outisde
+large_text : "Coding some bots..." 
 },
 buttons : [{label : "Discord" , url : "https://discord.gg/wetxR93SFZ"},{label : "Website",url : "https://developmentsitegwop.netlify.app/"}]
 }
