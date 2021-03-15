@@ -13,4 +13,4 @@ A powerful library for interacting with the Discord API. https://npmjs.com/packa
 
 **Getting started**
 
-To get install all needed packages, use `npm install`. You can edit any game data in `config.json` and once you've done that, start the application with `node .`
+To get install all needed packages, use `npm install`. You can edit any game data in `index.js` and once you've done that, start the application with `node .`
