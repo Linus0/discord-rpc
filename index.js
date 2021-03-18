@@ -4,10 +4,10 @@ client.on('ready', () => {
 client.request('SET_ACTIVITY', {
 pid: process.pid,
 activity : {
-details : "Coding some shit...",
+details : "🧞View My Website",
 assets : {
 large_image : "large2",
-large_text : "Coding some bots..." 
+large_text : "💻Coding Discord Bots" 
 },
 buttons : [{label : "Discord" , url : "https://discord.gg/wetxR93SFZ"},{label : "Website",url : "https://www.gwopdevelopment.com/"}]
 }
