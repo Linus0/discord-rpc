@@ -9,7 +9,7 @@ assets : {
 large_image : "large2",
 large_text : "Coding some bots..." 
 },
-buttons : [{label : "Discord" , url : "https://discord.gg/wetxR93SFZ"},{label : "Website",url : "https://developmentsitegwop.netlify.app/"}]
+buttons : [{label : "Discord" , url : "https://discord.gg/wetxR93SFZ"},{label : "Website",url : "https://www.gwopdevelopment.com/"}]
 }
 })
 })
