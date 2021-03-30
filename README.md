@@ -13,4 +13,4 @@ https://npmjs.com/package/discord-rpc https://discord.js.org/#/docs/rpc/
 
 **Getting started**
 
-To get install all needed packages, use `npm install`. You can edit any game data in `index.js` and once you've done that start the application with `node .`
+To get install all needed packages, use `npm install`. You can edit any data in `index.js` and once you've done that start the application with `node .`
