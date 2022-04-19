@@ -22,5 +22,5 @@ client.on('ready', () => {
     })
 })
 client.login({
-    clientId: "817003264524288010"
+    clientId: "732517063825817681"
 }).catch(console.error);
